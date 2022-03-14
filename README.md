@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi ~ I'm here! 👋 This is sunyc!
+# Hi ~ 👋
 
 前端开发工程师
 
-<img src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&theme=vue" alt="logo" height="200" align="right" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&theme=vue" alt="logo" height="200" align="right" width="50%"/>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
