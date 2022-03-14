@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 # Hi,I'm here! 👋
 前端开发工程师
 
-<img src="https://github-readme-stats.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&theme=vue" alt="logo" height="250" align="right" width="50%" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" height="300" align="right" width="50%" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
