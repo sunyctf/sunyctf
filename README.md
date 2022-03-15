@@ -60,15 +60,12 @@ Here are some ideas to get you started:
 
 ## 📖 Languages
 
-<!-- <a href="https://github.com/sunyctf2007">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=vue"/>
-</a> -->
-
 <!-- 主题可更换 them=vue|buefly|buefy-->
 <a href="https://github.com/sunyctf2007">
-<div style="display:flex;justify-content:space-between;flex-flow:row nowrap;">
+<div style="display:flex;justify-content:flex-end;flex-flow:row nowrap;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefly&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=buefly&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=buefly" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=buefly&layout=compact"/> -->
 </div>
 </a>
 
