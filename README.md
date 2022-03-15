@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - 🖥Adobe Xd | Illustrator | Photoshop | OpenShot -->
 
 
-<!-- ## Languages -->
+## Languages
 
 <a href="https://github.com/sunyctf2007">
   <img src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&theme=vue" alt="logo" height="200" align="left" width="50%"/>
