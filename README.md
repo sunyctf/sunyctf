@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 👨‍💻 Things I am currently working on:
 - 🌱 I’m currently learning Vue.js and Node.js
-- 👯 I’m looking to collaborate on ...
-- 👨 I’m looking for help with ...
+- 👯 I am looking for project cooperation opportunities
+- 📚 I’m learning backend web development using NodeJS, ExpressJS and mysql
 
 💪 Things I am challenging myself with:
 - 🧭Waking up earlier to make good use of the day
@@ -74,22 +74,22 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me
 
-<a href="">
-  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="javascript:;">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="javascript:;">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/sunyctf2007">
   <img align="left" alt="sunyctf2007's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="">
+<a href="javascript:;">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="">
+<a href="javascript:;">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="">
+<a href="javascript:;">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 
