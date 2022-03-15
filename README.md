@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&theme=vue" alt="logo" height="200" align="right" width="50%"/>
 
-<!-- - 🔭 I’m currently working on ...
+<!-- 
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -37,8 +38,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-🌱 Things I am currently working on:
-- 👨‍💻 I’m currently learning ...
+👨‍💻 Things I am currently working on:
+- 🌱 I’m currently learning Vue.js and Node.js
 - 👯 I’m looking to collaborate on ...
 - 👨 I’m looking for help with ...
 
@@ -46,6 +47,15 @@ Here are some ideas to get you started:
 - 🧭Waking up earlier to make good use of the day
 - 🚀Coding at least 4 hours a day
 - ✍🏻 Exercising 3 days a week
+
+<!-- 
+<h3>🛠 Tech Stack</h3>
+
+- 💻Python | Dart | Java | C++  
+- 🌐Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 MySQL | Firebase | Xampp
+- 🔧Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥Adobe Xd | Illustrator | Photoshop | OpenShot -->
 
 
 ## Languages
