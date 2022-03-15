@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 # Hi！~ I'm 烤地瓜 👋
 
 𝑰 ❤️ 前端开发工程师
-<br/>
 
 <!-- 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!<br>
 :computer: 𝑺𝒆𝒏𝒊𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 𝑩𝒆𝒊𝒋𝒊𝒏𝒈, 𝒂𝒕 𝑱𝑫.𝒄𝒐𝒎. <br>
@@ -42,7 +41,7 @@ Here are some ideas to get you started:
 👨‍💻 Things I am currently working on:
 - 🌱 I’m currently learning Vue.js and Node.js
 - 👯 I am looking for project cooperation opportunities
-- 📚 I’m learning backend web development using NodeJS, ExpressJS and mysql
+- 📚 I’m learning backend web development using NodeJS, ExpressJS and MySQL
 
 💪 Things I am challenging myself with:
 - 🧭Waking up earlier to make good use of the day
@@ -59,7 +58,7 @@ Here are some ideas to get you started:
 - 🖥Adobe Xd | Illustrator | Photoshop | OpenShot -->
 
 
-## Languages
+## 📖 Languages
 
 <!-- <a href="https://github.com/sunyctf2007">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=vue"/>
