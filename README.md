@@ -62,17 +62,15 @@ Here are some ideas to get you started:
 
 ## Languages
 
-<a href="https://github.com/sunyctf2007">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&theme=vue" alt="logo" height="200" align="left" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=vue" alt="logo" height="200"/>
-</a>
+<!-- <a href="https://github.com/sunyctf2007">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=vue"/>
+</a> -->
 
-<!-- <br/>
+<!-- 主题可更换 them=vue|buefly|buefy-->
 <a href="https://github.com/sunyctf2007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=buefy&layout=compact" />
 </a>
-<br/> -->
 
 <!-- ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
