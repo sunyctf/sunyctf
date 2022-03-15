@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefly&show_icons=true" />
+</p>
+
 # Hi！~ I'm 烤地瓜 👋
 
 𝑰 ❤️ 前端开发工程师
@@ -37,7 +41,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&theme=vue" alt="logo" height="200" align="right" width="50%"/> -->
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-
 👨‍💻 Things I am currently working on:
 - 🌱 I’m currently learning Vue.js and Node.js
 - 👯 I am looking for project cooperation opportunities
@@ -46,7 +49,7 @@ Here are some ideas to get you started:
 💪 Things I am challenging myself with:
 - 🧭Waking up earlier to make good use of the day
 - 🚀Coding at least 4 hours a day
-- ✍🏻 Exercising 3 days a week
+- ✍🏻Exercising 3 days a week
 
 <!-- 
 <h3>🛠 Tech Stack</h3>
@@ -57,6 +60,12 @@ Here are some ideas to get you started:
 - 🔧Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥Adobe Xd | Illustrator | Photoshop | OpenShot -->
 
+<!-- 
+## 📖 Languages
+
+<a href="https://github.com/sunyctf2007">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefly&show_icons=true" />
+</a> -->
 
 ## 📖 Languages
 
@@ -91,6 +100,18 @@ Here are some ideas to get you started:
 <a href="javascript:;">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
+ 
+<br>
+
+## 🛠 Tech and Tools Preference
+<p align="left">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+<!-- <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"> -->
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+<!-- <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"> -->
+<!-- <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"> -->
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+</p>
 
 <!-- ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
