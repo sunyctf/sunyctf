@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 
 <!-- 主题可更换 them=vue|buefly|buefy-->
 <a href="https://github.com/sunyctf2007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=buefy&layout=compact"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefly&show_icons=true" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=buefly&layout=compact"/>
 </a>
 
 
