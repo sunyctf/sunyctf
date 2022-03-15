@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 💪 Things I am challenging myself with:
 - 🧭Waking up earlier to make good use of the day
-- 🚀Coding at least 4 hours a day
-- ✍🏻Exercising 3 days a week
+- ✍🏻Coding at least 4 hours a day
+- 🚀Exercising 3 days a week
 
 <!-- 
 <h3>🛠 Tech Stack</h3>
