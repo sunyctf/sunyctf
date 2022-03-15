@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefly&show_icons=true" />
-</p>
 
 # Hi！~ I'm 烤地瓜 👋
 
@@ -60,12 +57,6 @@ Here are some ideas to get you started:
 - 🔧Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥Adobe Xd | Illustrator | Photoshop | OpenShot -->
 
-<!-- 
-## 📖 Languages
-
-<a href="https://github.com/sunyctf2007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefly&show_icons=true" />
-</a> -->
 
 ## 📖 Languages
 
@@ -75,7 +66,7 @@ Here are some ideas to get you started:
 
 <!-- 主题可更换 them=vue|buefly|buefy-->
 <a href="https://github.com/sunyctf2007">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefly&show_icons=true" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefly&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=buefly&layout=compact"/>
 </a>
 
