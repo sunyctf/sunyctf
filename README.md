@@ -91,6 +91,14 @@ Here are some ideas to get you started:
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 
+<!-- ## 📫 How to reach me
+<p align="center">
+<a href="mailto:hello@alyssacolumbus.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/acolum" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://dev.to/acolum" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://twitter.com/alycolumbus" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://github.com/acolum/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+</p> -->
 
 <!-- ## 📫 How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
