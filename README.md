@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ## Languages
 
 <a href="https://github.com/sunyctf2007">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&theme=vue" alt="logo" height="200" align="left" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&theme=vue" alt="logo" height="200" align="left" width="50%" style="max-width:100%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=vue" alt="logo" height="200 style="max-width:100%"/>
 </a>
 
