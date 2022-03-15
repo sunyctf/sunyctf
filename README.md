@@ -62,12 +62,13 @@ Here are some ideas to get you started:
 
 <!-- ## Languages -->
 
-
+<div>
+<hr style="height:0.25rm;border:none;border-top:2px dotted #185598;" />
 <a href="https://github.com/sunyctf2007">
   <img src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&theme=vue" alt="logo" height="200" align="left" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=vue" alt="logo" height="200"/>
 </a>
-
+</div>
 
 <!-- <br/>
 <a href="https://github.com/AVS1508">
