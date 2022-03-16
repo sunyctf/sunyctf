@@ -75,13 +75,13 @@ Here are some ideas to get you started:
   <img align="left" alt="sunyctf2007's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://sunyctf2007.github.io/sunyctf2007/WeChat.png target="_blank" >
-  <img align="left" title="WeChat-suny20111130" alt="sunyctf2007" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+  <img align="left" title="WeChat" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
-<a href="javascript:;">
-  <img align="left" title="QQ-719146368" alt="sunyctf2007" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
+<a href="http://wpa.qq.com/msgrd?v=3&uin=719146368&site=qq&menu=yes"">
+  <img align="left" title="QQ" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
-<a href="https://codepen.io/sunyctf2007" target="_blank">
-  <img align="left" title="Codepen" alt="sunyctf2007" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
+<a href="https://codepen.io/sunyctf" target="_blank">
+  <img align="left" title="Codepen" alt="sunyctf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
 </a>
 <a href="javascript:;">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
