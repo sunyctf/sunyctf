@@ -77,27 +77,28 @@ Here are some ideas to get you started:
 <a href="https://sunyctf2007.github.io/sunyctf2007/WeChat.png target="_blank" >
   <img align="left" title="WeChat" alt="WeChat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
-<a href="http://wpa.qq.com/msgrd?v=3&uin=719146368&site=qq&menu=yes"">
+<a href="http://wpa.qq.com/msgrd?v=3&uin=719146368&site=qq&menu=yes">
   <img align="left" title="QQ" alt="QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
 <a href="https://codepen.io/sunyctf" target="_blank">
   <img align="left" title="Codepen" alt="sunyctf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
 </a>
 <a href="javascript:;">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" title="Codepen" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="javascript:;">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" title="Linkedin" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<!-- 
+<a href="javascript:;">
+  <img align="left" title="Telegram" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="javascript:;">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" title="HackerRank" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="javascript:;">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="javascript:;">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
+  <img align="left" title="Kaggle" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a> -->
 
 <!-- ## 📫 How to reach me
 <p align="center">
