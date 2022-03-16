@@ -82,14 +82,14 @@ Here are some ideas to get you started:
 </a>
 <a href="https://codepen.io/sunyctf" target="_blank">
   <img align="left" title="Codepen" alt="sunyctf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
-</a>
+</a>                                                                                                                                
 <a href="javascript:;">
   <img align="left" title="Twitter" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<!--  
 <a href="javascript:;">
   <img align="left" title="Linkedin" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<!-- 
+</a> 
 <a href="javascript:;">
   <img align="left" title="Telegram" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
