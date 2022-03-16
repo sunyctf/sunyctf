@@ -72,13 +72,13 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me
 <a href="https://github.com/sunyctf2007">
-  <img align="left" alt="sunyctf2007's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" title="GitHub" alt="sunyctf2007's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://sunyctf2007.github.io/sunyctf2007/WeChat.png target="_blank" >
-  <img align="left" title="WeChat" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+  <img align="left" title="WeChat" alt="WeChat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 <a href="http://wpa.qq.com/msgrd?v=3&uin=719146368&site=qq&menu=yes"">
-  <img align="left" title="QQ" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
+  <img align="left" title="QQ" alt="QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
 <a href="https://codepen.io/sunyctf" target="_blank">
   <img align="left" title="Codepen" alt="sunyctf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
