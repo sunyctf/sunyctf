@@ -99,7 +99,16 @@ Here are some ideas to get you started:
 <a href="javascript:;">
   <img align="left" title="Kaggle" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a> -->
-
+                                                                                                                               <br>
+<!-- ## Follow Me | How to reach me
+![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
+[![个人博客](https://img.shields.io/badge/-个人博客（duktig.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://duktig.cn/)
+[![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/duktig666)
+[![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/duktig666)
+[![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/qq_42937522?spm=1000.2115.3001.5343)
+[![简书](https://img.shields.io/badge/-简书-c14438?style=flat-square&logo=简&logoColor=white)](https://www.jianshu.com/u/421632ec0dc8)
+[![Gmail Badge](https://img.shields.io/badge/gmail-ren_shi_wei@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ren_shi_wei@qq.com)](mailto:ren_shi_wei@qq.com) -->                                                                                                                        
+                                                                                                                                   
 <!-- ## 📫 How to reach me
 <p align="center">
 <a href="mailto:hello@alyssacolumbus.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
@@ -115,8 +124,6 @@ Here are some ideas to get you started:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/luiz740)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com) -->
- 
-<br>
 
 ## 🛠 Tech and Tools Preference
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -128,8 +135,9 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/sunyctf2007/)](https://github.com/sunyctf2007/)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/sunyctf2007/)
+[![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/sunyctf)
+[![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)](http://markdown.p2hp.com/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
