@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 ## 📖 Languages
-<!-- 主题可更换 them=vue|buefly|buefy-->
+<!-- 主题可更换 them=vue|buefly|buefy -->
 <a href="https://github.com/sunyctf2007">
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefly&show_icons=true" />
