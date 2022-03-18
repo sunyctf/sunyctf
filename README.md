@@ -1,13 +1,3 @@
-<!-- 模板1
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-### 你好，世界 👋
-
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover -->
-
 <!-- 系统默认
 **sunyctf2007/sunyctf2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,10 +23,6 @@ Here are some ideas to get you started:
 :vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅. <br>
 :writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/xiaoluoboding/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
  -->
- 
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&show_icons=true&theme=vue" alt="logo" height="200" align="right" width="50%"/> -->
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 👨‍💻 Things I am currently working on:
 - 🌱 I’m currently learning Vue.js and Node.js
@@ -47,15 +33,6 @@ Here are some ideas to get you started:
 - 🧭Waking up earlier to make good use of the day
 - ✍🏻Coding at least 4 hours a day
 - 🚀Exercising 3 days a week
-
-<!-- 
-<h3>🛠 Tech Stack</h3>
-
-- 💻Python | Dart | Java | C++  
-- 🌐Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 MySQL | Firebase | Xampp
-- 🔧Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥Adobe Xd | Illustrator | Photoshop | OpenShot -->
 
 
 ## 📖 Languages
