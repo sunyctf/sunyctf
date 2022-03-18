@@ -32,11 +32,12 @@ Here are some ideas to get you started:
 
 ## 📖 Languages
 <!-- 主题可更换 them=vue|buefly|buefy -->
-<a href="https://github.com/sunyctf2007">
 <p align="left">
+  <a href="https://github.com/sunyctf2007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefly&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=buefly" />
-</p></a>
+  </a>
+</p>
 
 ## 📫 How to reach me
 <a href="https://github.com/sunyctf2007">
@@ -47,8 +48,8 @@ Here are some ideas to get you started:
 <a href="http://wpa.qq.com/msgrd?v=3&uin=719146368&site=qq&menu=yes" target="_blank"><img align="left" title="QQ" alt="QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
 <a href="https://codepen.io/sunyctf" target="_blank"><img align="left" title="Codepen" alt="sunyctf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
-</a><br>
-                                                           
+</a>  
+
 ## 🛠 Tech and Tools Preference
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
