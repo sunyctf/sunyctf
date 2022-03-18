@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 </p>
 </a>
 
-
 ## 📫 How to reach me
 <a href="https://github.com/sunyctf2007">
   <img align="left" title="GitHub" alt="sunyctf2007's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -53,12 +52,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://codepen.io/sunyctf" target="_blank">
   <img align="left" title="Codepen" alt="sunyctf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
-</a>                                                                                                                                
-<a href="javascript:;">
-  <img align="left" title="Twitter" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
- <br>                                                                                                               
-                                                                                                                                   
+</a>                                                                                                                                                                                                             
 <!-- ## 📫 How to reach me
 <p align="center">
 <a href="mailto:hello@alyssacolumbus.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
@@ -74,7 +68,8 @@ Here are some ideas to get you started:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/luiz740)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com) -->
-
+<br>
+                                                                   
 ## 🛠 Tech and Tools Preference
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
