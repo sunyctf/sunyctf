@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 <!-- [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/sunyctf2007/)](https://github.com/sunyctf2007/) -->
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/sunyctf2007/)]
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/sunyctf2007/)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/sunyctf2007/)
