@@ -43,22 +43,18 @@ Here are some ideas to get you started:
 <a href="https://github.com/sunyctf2007">
   <img align="left" title="GitHub" alt="sunyctf2007's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://sunyctf2007.github.io/sunyctf2007" target="_blank" >
-  <img align="left" title="WeChat" alt="WeChat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
-</a>
-<a href="http://wpa.qq.com/msgrd?v=3&uin=719146368&site=qq&menu=yes" target="_blank">
-  <img align="left" title="QQ" alt="QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
-</a>
-<a href="https://codepen.io/sunyctf" target="_blank">
-  <img align="left" title="Codepen" alt="sunyctf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
-</a>                                                                                                                                                                    
-<!-- ## 📫 How to reach me
+<a href="https://sunyctf2007.github.io/sunyctf2007" target="_blank"><img align="left" title="WeChat" alt="WeChat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" /></a>
+<a href="http://wpa.qq.com/msgrd?v=3&uin=719146368&site=qq&menu=yes" target="_blank"><img align="left" title="QQ" alt="QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" /></a>
+<a href="https://codepen.io/sunyctf" target="_blank"><img align="left" title="Codepen" alt="sunyctf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" /></a>                                                                                                                                                                    
+<!-- 
+## 📫 How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/luiz740)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com) -->                                                                                                                                 
-<!-- ## 📫 How to reach me
+<!-- 
+## 📫 How to reach me
 <p align="center">
 <a href="mailto:hello@alyssacolumbus.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/acolum" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
