@@ -47,8 +47,7 @@ Here are some ideas to get you started:
 <a href="http://wpa.qq.com/msgrd?v=3&uin=719146368&site=qq&menu=yes" target="_blank"><img align="left" title="QQ" alt="QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
 <a href="https://codepen.io/sunyctf" target="_blank"><img align="left" title="Codepen" alt="sunyctf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
-</a>                                                                                                                                                                 
-<br>
+</a><br>
                                                            
 ## 🛠 Tech and Tools Preference
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
