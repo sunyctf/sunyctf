@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://codepen.io/sunyctf" target="_blank"><img align="left" title="Codepen" alt="sunyctf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
 </a>                                                                                                                                                                 
-                                                              
+<br>                                                            
 ## 🛠 Tech and Tools Preference
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -141,12 +141,3 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table> -->
-
-<!-- ## My Activities :mailbox_with_mail:
-
-| BLOGS :open_book: | WEBINARS :tv: |
-| :--- | :--- |
-| [How Jenkins can help build your code](https://medium.com/@diptochakrabarty/how-jenkins-can-actually-help-you-build-your-code-with-every-commit-5b9b1278f12f) | [Micorservices with Docker](https://www.youtube.com/watch?v=Xs93YLgYJis&t=1989s) |
-| [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
-| [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947) | [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8) |
- -->
