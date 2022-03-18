@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 
 ## 📖 Languages
-
 <!-- 主题可更换 them=vue|buefly|buefy-->
 <a href="https://github.com/sunyctf2007">
 <p align="left">
@@ -52,7 +51,13 @@ Here are some ideas to get you started:
 </a>
 <a href="https://codepen.io/sunyctf" target="_blank">
   <img align="left" title="Codepen" alt="sunyctf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
-</a>                                                                                                                                                                                                             
+</a>                                                                                                                                                                    
+<!-- ## 📫 How to reach me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/luiz740)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com) -->                                                                                                                                 
 <!-- ## 📫 How to reach me
 <p align="center">
 <a href="mailto:hello@alyssacolumbus.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
@@ -61,15 +66,8 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/alycolumbus" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/acolum/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p> -->
-
-<!-- ## 📫 How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/luiz740)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com) -->
 <br>
-                                                                   
+                                                              
 ## 🛠 Tech and Tools Preference
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
