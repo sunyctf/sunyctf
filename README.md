@@ -57,19 +57,6 @@ Here are some ideas to get you started:
 <a href="javascript:;">
   <img align="left" title="Twitter" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<!--  
-<a href="javascript:;">
-  <img align="left" title="Linkedin" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> 
-<a href="javascript:;">
-  <img align="left" title="Telegram" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="javascript:;">
-  <img align="left" title="HackerRank" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="javascript:;">
-  <img align="left" title="Kaggle" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a> -->
  <br>                                                                                                               
                                                                                                                                    
 <!-- ## 📫 How to reach me
@@ -107,7 +94,6 @@ Here are some ideas to get you started:
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)
 
-<!-- [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/sunyctf2007/)](https://github.com/sunyctf2007/) -->
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/sunyctf2007/) -->
 <!-- ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle) -->
 <!-- ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff) -->
