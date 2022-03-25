@@ -1,5 +1,5 @@
 <!-- 系统默认
-**sunyctf2007/sunyctf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sunyctf/sunyctf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
