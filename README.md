@@ -1,5 +1,5 @@
 <!-- 系统默认
-**sunyctf2007/sunyctf2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sunyctf2007/sunyctf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -33,17 +33,17 @@ Here are some ideas to get you started:
 ## 📖 Languages
 <!-- 主题可更换 them=vue|buefly|buefy -->
 <p align="left">
-  <a href="https://github.com/sunyctf2007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf2007&theme=buefly&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf2007&theme=buefly" />
+  <a href="https://github.com/sunyctf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf&theme=buefly&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&theme=buefly" />
   </a>
 </p>
 
 ## 📫 How to reach me
-<a href="https://github.com/sunyctf2007">
-  <img align="left" title="GitHub" alt="sunyctf2007's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/sunyctf">
+  <img align="left" title="GitHub" alt="sunyctf's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://sunyctf2007.github.io/sunyctf2007" target="_blank"><img align="left" title="WeChat" alt="WeChat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+<a href="https://sunyctf.github.io/sunyctf" target="_blank"><img align="left" title="WeChat" alt="WeChat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 <a href="http://wpa.qq.com/msgrd?v=3&uin=719146368&site=qq&menu=yes" target="_blank"><img align="left" title="QQ" alt="QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/sunyctf2007/)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/sunyctf/)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/sunyctf2007/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/sunyctf/)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/sunyctf)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)](http://markdown.p2hp.com/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/sunyctf2007/) -->
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/sunyctf/) -->
 <!-- ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle) -->
 <!-- ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff) -->
 <!-- ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff) -->
