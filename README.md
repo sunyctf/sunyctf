@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🚀Exercising 3 days a week
 
 
-## 📖 Languages
+## 🦜 Languages
 <!-- 主题可更换 them=vue|buefly|buefy -->
 <p align="left">
   <a href="https://github.com/sunyctf">
