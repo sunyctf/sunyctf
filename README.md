@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org/zh-cn/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://www.mysql.com/)
 [![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.cn/)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://www.liaoxuefeng.com/wiki/896043488029600)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/sunyctf/)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/sunyctf)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)](http://markdown.p2hp.com/)
