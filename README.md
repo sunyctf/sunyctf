@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 ---
 
 #### 🔥 [Top Repositories](https://github.com/sunyctf)
-<a href="https://github.com/sunyctf/github-readme-stats">
+<a href="https://github.com/sunyctf/front-end-demos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunyctf&repo=front-end-demos&theme=buefy" />
 </a>
-<a href="https://github.com/sunyctf/sunyctf.github.io">
+<a href="https://github.com/sunyctf/back-end-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunyctf&repo=back-end-template&theme=buefy" />
 </a>
 
