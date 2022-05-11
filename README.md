@@ -47,74 +47,36 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/wizardforcel">
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
+      <a href="https://github.com/jishanshaikh4">
+        <img src="https://avatars2.githubusercontent.com/jishanshaikh4" width="100px;" alt="jishanshaikh4"/>
       </a>
       <br />
-      <a href="https://github.com/wizardforcel">布客飞龙</a>
+      <a href="https://github.com/jishanshaikh4">jishanshaikh4</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+      <a href="https://github.com/yihuaxiang">
+        <img src="https://avatars2.githubusercontent.com/yihuaxiang" width="100px;" alt="yihuaxiang"/>
       </a>
       <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
+      <a href="https://github.com/yihuaxiang">移花香</a>
     </td>
     <td align="center">
-      <a href="https://github.com/webpointdev">
-        <img src="https://avatars2.githubusercontent.com/u/88071912" width="100px;" alt="webpointdev"/>
+      <a href="https://github.com/NazarovAsadbek">
+        <img src="https://avatars2.githubusercontent.com/NazarovAsadbek" width="100px;" alt="NazarovAsadbek"/>
       </a>
       <br />
-      <a href="https://github.com/webpointdev">New Dragon Warrior</a>
+      <a href="https://github.com/NazarovAsadbek">NazarovAsadbek</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mashirozx">
-        <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
+      <a href="https://github.com/MartinGurasvili">
+        <img src="https://avatars2.githubusercontent.com/MartinGurasvili" width="100px;" alt="MartinGurasvili"/>
       </a>
       <br />
-      <a href="https://github.com/mashirozx">Mashiro</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lzwjava">
-        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
-      </a>
-      <br />
-      <a href="https://github.com/lzwjava">lzwjava</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ir1d">Dejia Xu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
-      </a>
-      <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
+      <a href="https://github.com/mashirozx">MartinGurasvili</a>
     </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
-
----
-
-#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
-
-<!--START_SECTION:waka-->
-
-```text
-Vue          24 hrs 16 mins  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.55 %
-Markdown     19 hrs 38 mins  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.51 %
-C++          9 hrs 42 mins   🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.60 %
-TypeScript   6 hrs 20 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.23 %
-Shell        3 hrs 8 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.07 %
-text         2 hrs 5 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.71 %
-```
-
-<!--END_SECTION:waka-->
 
 ---
 
@@ -130,6 +92,7 @@ text         2 hrs 5 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </a><br>
 
 ---
+
 #### 🛠 [Tech and Tools Preference](https://github.com/sunyctf)
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.runoob.com/html)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://www.runoob.com/css/css-tutorial.html)
