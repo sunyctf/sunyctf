@@ -5,7 +5,9 @@ on:
   schedule:
     # Runs at 20pm UTC
     - cron: "0 20 * * *"
-
+  push:
+    branches:
+      - main
 jobs:
   update-readme:
     name: Update this repo's README
