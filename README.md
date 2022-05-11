@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 -->
 
 <!-- 模板2
-[![sunyctf's github stats](https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![sunyctf's github stats](https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true)](https://github.com/sunyctf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact)](https://github.com/sunyctf/github-readme-stats)
 -->
 
 <!-- 模板3 -->
-| <a href="https://github.com/sunyctf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sunyctf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
