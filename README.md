@@ -13,10 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <samp>
+    <img src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/9666.gif" width="240px" align="center"><br>
+☕  Wanna chat? 👉 @ me on <a href="https://blog.csdn.net/sunyctf">CSDN</a>
+    <!--  或是使用图片链接    
+    <a href="https://blog.csdn.net/sunyctf"><img align="center" title="CSDN" alt="青春木鱼 | csdn" width="22px" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/csdn.png"/>
+    </a> 
+    -->
+  </samp>
+</p>
 
 ## Hi！~ I'm 烤地瓜 👋
 
 𝑰 ❤️ 前端开发工程师
+<img src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/6696.gif" width="27px">
 
 
 👨‍💻 Things I am currently working on:
