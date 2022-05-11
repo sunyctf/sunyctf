@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 模板3 -->
-| <a href="https://github.com/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sunyctf/front-end-demos"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf/front-end-demos"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
