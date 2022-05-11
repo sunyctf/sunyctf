@@ -29,12 +29,16 @@ Here are some ideas to get you started:
 - ✍🏻Coding at least 4 hours a day
 - 🚀Exercising 3 days a week
 
+<a href="https://github.com/sunyctf">
 <code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/git.png"></code>
+</a>
 <code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/elementui.png"></code>
+<a href="https://www.openzui.com">
 <code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/zui.png"></code>
+</a>
 <code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/dom.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/jquery.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/vue.png"></code>
