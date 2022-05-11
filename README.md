@@ -28,6 +28,18 @@ Here are some ideas to get you started:
 - 🧭Waking up earlier to make good use of the day
 - ✍🏻Coding at least 4 hours a day
 - 🚀Exercising 3 days a week
+
+<code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/elementui.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/zui.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/dom.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/jquery.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/nodejs.png"></code>    
+
 ---
 
 #### 🦜 [GitHub Stats](https://github.com/sunyctf)
