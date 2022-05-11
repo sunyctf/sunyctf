@@ -30,14 +30,24 @@ Here are some ideas to get you started:
 - 🚀Exercising 3 days a week
 ---
 
-#### 🦜 [Languages](https://github.com/sunyctf)
-<!-- 主题可更换 them=vue|buefly|buefy -->
+#### 🦜 [GitHub Stats](https://github.com/sunyctf)
+<!-- 主题可更换 them=vue|buefly|buefy  模板1
 <p align="left">
   <a href="https://github.com/sunyctf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf&theme=buefly&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&theme=buefly" />
   </a>
 </p>
+-->
+
+<!-- 模板2
+[![sunyctf's github stats](https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<!-- 模板3 -->
+| <a href="https://github.com/sunyctf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sunyctf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 
@@ -80,7 +90,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### 📫 [How to reach me](https://github.com/sunyctf)
+#### 💬 [How to reach me](https://github.com/sunyctf)
 <a href="https://github.com/sunyctf">
   <img align="left" title="GitHub" alt="sunyctf's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
