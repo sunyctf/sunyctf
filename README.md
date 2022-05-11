@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- idea源自：https://github.com/pifafu -->
 <p align="center">
   <samp>
     <img src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/9666.gif" width="240px" align="center"><br>
