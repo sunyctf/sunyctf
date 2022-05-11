@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 
 <!-- 模板3 -->
 <!-- 模块源自：https://github.com/anuraghazra/github-readme-stats -->
-<!-- 现有主题theme：dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-| <a href="https://github.com/sunyctf/front-end-demos"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf/front-end-demos"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
+<!-- 现有主题theme：buefly,buefy,vue,dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+| <a href="https://github.com/sunyctf/front-end-demos"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefly&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf/front-end-demos"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefly&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
@@ -84,10 +84,10 @@ Here are some ideas to get you started:
 #### 🔥 [Top Repositories](https://github.com/sunyctf)
 <!-- 模块源自：https://github.com/anuraghazra  -->
 <a href="https://github.com/sunyctf/front-end-demos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunyctf&repo=front-end-demos&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunyctf&repo=front-end-demos&theme=buefly" />
 </a>
 <a href="https://github.com/sunyctf/back-end-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunyctf&repo=back-end-template&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunyctf&repo=back-end-template&theme=buefly" />
 </a>
 
 ---
