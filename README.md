@@ -146,10 +146,10 @@ Here are some ideas to get you started:
 
 #### 💬 [How to reach me](https://github.com/sunyctf)
 <a href="https://blog.csdn.net/sunyctf">
-  <img align="left" title="CSDN" alt="青春木鱼 | csdn" width="22px" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/csdn.svg" />
+  <img align="left" title="CSDN" alt="sunyctf's csdn" width="22px" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/csdn.svg" />
 </a>
 <a href="https://codesandbox.io/sunyctf">
-  <img align="left" title="CodeSandbox" alt="青春木鱼|CodeSandbox" width="22px" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/codesandbox.svg" />
+  <img align="left" title="CodeSandbox" alt="CodeSandbox" width="22px" src="https://raw.githubusercontent.com/sunyctf/sunyctf/main/assets/codesandbox.svg" />
 </a>
 <a href="https://github.com/sunyctf">
   <img align="left" title="GitHub" alt="sunyctf's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
