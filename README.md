@@ -90,24 +90,26 @@ Here are some ideas to get you started:
 <!-- 现有主题theme：buefly,buefy,vue,dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 | <a href="https://github.com/sunyctf/front-end-demos"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefly&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf/front-end-demos"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefly&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 <!--
 ---
 
 #### 🔥 [Top Repositories](https://github.com/sunyctf)
-模块源自：https://github.com/anuraghazra 
+这是注释————模块源自：https://github.com/anuraghazra 
 <a href="https://github.com/sunyctf/front-end-demos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunyctf&repo=front-end-demos&theme=buefly" />
 </a>
 <a href="https://github.com/sunyctf/back-end-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunyctf&repo=back-end-template&theme=buefly" />
-</a>
+</a> -->
 
 ---
- -->
+
+<!--
 #### :sparkles: [My followers](src/getTopFollowers.py)
 
-<!--START_SECTION:top-followers-->
-<!-- 模块源自：https://github.com/ouuan -->
+这是注释：START_SECTION:top-followers
+这是注释：模块源自：https://github.com/ouuan
 <table>
   <tr>
     <td align="center">
@@ -140,9 +142,10 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-<!--END_SECTION:top-followers-->
+这是注释：END_SECTION:top-followers
 
 ---
+-->
 
 #### 💬 [How to reach me](https://github.com/sunyctf)
 <a href="https://blog.csdn.net/sunyctf">
