@@ -90,11 +90,11 @@ Here are some ideas to get you started:
 <!-- 现有主题theme：buefly,buefy,vue,dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 | <a href="https://github.com/sunyctf/front-end-demos"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefly&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf/front-end-demos"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefly&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+<!--
 ---
 
 #### 🔥 [Top Repositories](https://github.com/sunyctf)
-<!-- 模块源自：https://github.com/anuraghazra  -->
+模块源自：https://github.com/anuraghazra 
 <a href="https://github.com/sunyctf/front-end-demos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunyctf&repo=front-end-demos&theme=buefly" />
 </a>
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 </a>
 
 ---
-
+ -->
 #### :sparkles: [My followers](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
