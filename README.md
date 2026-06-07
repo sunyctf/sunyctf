@@ -80,17 +80,16 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<!-- 模板2
+<!-- 模板2 -->
 [![sunyctf's github stats](https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true)](https://github.com/sunyctf/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact)](https://github.com/sunyctf/github-readme-stats)
--->
+
 
 <!-- 模板3 -->
 <!-- 模块源自：https://github.com/anuraghazra/github-readme-stats -->
 <!-- 现有主题theme：buefly,buefy,vue,dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-| <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-<a href="https://github.com/sunyctf/sunyctf"><img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /></a>
+<!-- | <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |-->
 <!--
 ---
 
