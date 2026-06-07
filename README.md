@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 ---
 
 #### 🦜 [GitHub Stats](https://github.com/sunyctf)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!-- 主题可更换 them=vue|buefly|buefy  模板1 
 <p align="left">
   <a href="https://github.com/sunyctf">
@@ -187,12 +186,12 @@ Here are some ideas to get you started:
 [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)](https://cn.vuejs.org/index.html)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](https://www.typescriptlang.org/zh/)
 [![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)(https://flutter.cn/)
 <!-- ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle) -->
 <!-- ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff) -->
 <!-- ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff) -->
 <!-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) -->
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/sunyctf2007/ -->
-<!-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/sunyctf2007/) -->
 <!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/sunyctf2007/) -->
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) -->
 <!-- ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff) -->
