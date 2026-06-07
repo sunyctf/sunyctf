@@ -88,9 +88,9 @@ Here are some ideas to get you started:
 <!-- 模板3 -->
 <!-- 模块源自：https://github.com/anuraghazra/github-readme-stats -->
 <!-- 现有主题theme：buefly,buefy,vue,dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-<!-- | <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
--->
+
 <!--
 ---
 
@@ -185,7 +185,7 @@ Here are some ideas to get you started:
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)](https://cn.vuejs.org/index.html)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](https://www.typescriptlang.org/zh/)
-[![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)(https://www.python.org/)]
+[![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 <!-- ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle) -->
 <!-- ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff) -->
 <!-- ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff) -->
