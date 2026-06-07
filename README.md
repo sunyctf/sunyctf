@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 
 👨‍💻 Things I am currently working on:
-- 🌱 I’m currently learning Vue.js and Node.js
+- 🌱 I’m currently learning Vue.js, Typescript and Node.js
 - 👯 I am looking for project cooperation opportunities
 - 📚 I’m learning backend web development using NodeJS, ExpressJS and MySQL
 
 💪 Things I am challenging myself with:
 - 🧭Waking up earlier to make good use of the day
-- ✍🏻Coding at least 4 hours a day
+- ✍🏻Coding at least 2 hours a day
 - 🚀Exercising 3 days a week
 
 <!-- <details>
