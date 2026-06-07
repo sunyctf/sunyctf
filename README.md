@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 <!-- 现有主题theme：buefly,buefy,vue,dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 | <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+![Sunyctf's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&theme=radical)
 <!--
 ---
 
