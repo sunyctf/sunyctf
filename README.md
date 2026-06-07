@@ -71,13 +71,14 @@ Here are some ideas to get you started:
 ---
 
 #### 🦜 [GitHub Stats](https://github.com/sunyctf)
-<!-- 主题可更换 them=vue|buefly|buefy  模板1 -->
+<!-- 主题可更换 them=vue|buefly|buefy  模板1 
 <p align="left">
   <a href="https://github.com/sunyctf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyctf&theme=buefly&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&theme=buefly" />
   </a>
 </p>
+-->
 
 <!-- 模板2 
 [![sunyctf's github stats](https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true)](https://github.com/sunyctf/github-readme-stats)
@@ -90,7 +91,7 @@ Here are some ideas to get you started:
 <!-- | <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunyctf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sunyctf's github stats" /></a> | <a href="https://github.com/sunyctf/sunyctf"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyctf&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
-<!--
+
 ---
 
 #### 🔥 [Top Repositories](https://github.com/sunyctf)
@@ -100,7 +101,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/sunyctf/back-end-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunyctf&repo=back-end-template&theme=buefly" />
-</a> -->
+</a> 
 
 ---
 
